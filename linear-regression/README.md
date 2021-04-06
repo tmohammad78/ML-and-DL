@@ -1,6 +1,6 @@
-Linear Regression
+# Linear Regression
 
-##Description
+## Description
 This is sample linear regression with sample equation and scikit learn library
 
 ### Algorithm 
